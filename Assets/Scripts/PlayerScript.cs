@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerScript : MonoBehaviour
@@ -36,4 +37,13 @@ public class PlayerScript : MonoBehaviour
         currentVelocity.y = Mathf.Clamp(currentVelocity.y, 2, 2);
         rb.velocity = currentVelocity;
     }
-}
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "FinishLine")
+        {
+                Debug.Log("Finished");
+                SceneManager.LoadScene("Win1");
+        }
+    }
+
+}   
