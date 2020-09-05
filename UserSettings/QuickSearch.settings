@@ -9,17 +9,37 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 debounceMs = 250
 scopes = {
-	"last_search.0260DB95" = "aspect"
-	"asset.0260DB95" = "True"
-	"menu.0260DB95" = "True"
-	"object.0260DB95" = "True"
 	"scene.0260DB95" = "True"
+	"last_search.0260DB95" = "montserrat "
+	"asset.0260DB95" = "True"
 	"settings.0260DB95" = "True"
+	"object.0260DB95" = "True"
+	"menu.0260DB95" = "True"
 }
 providers = {
+	object = {
+		active = true
+		priority = 55
+		defaultAction = null
+	}
+	query = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
 	asset = {
 		active = true
 		priority = 25
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
 		defaultAction = null
 	}
 	find = {
@@ -30,26 +50,6 @@ providers = {
 	log = {
 		active = false
 		priority = 210
-		defaultAction = null
-	}
-	object = {
-		active = true
-		priority = 55
-		defaultAction = null
-	}
-	packages = {
-		active = true
-		priority = 90
-		defaultAction = null
-	}
-	scene = {
-		active = true
-		priority = 50
-		defaultAction = null
-	}
-	query = {
-		active = true
-		priority = 100
 		defaultAction = null
 	}
 }
