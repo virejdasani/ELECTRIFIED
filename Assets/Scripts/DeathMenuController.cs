@@ -17,6 +17,6 @@ public class DeathMenuController : MonoBehaviour
     }
     public void BackToLevelSelect()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("LevelSelect");
     }
 }
