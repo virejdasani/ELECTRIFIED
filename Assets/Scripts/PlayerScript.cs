@@ -39,11 +39,19 @@ public class PlayerScript : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if(collision.tag == "FinishLine")
         {
-                Debug.Log("Finished");
+                // Debug.Log("Finished");
                 SceneManager.LoadScene("Win1");
         }
+        else if(collision.tag == "Enemy")
+        {
+                // Debug.Log("DEAD");
+                SceneManager.LoadScene("Dead1");
+        }
+        
     }
+
 
 }   

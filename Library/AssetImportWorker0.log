@@ -2025,3 +2025,14 @@ Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/c3c9ad913ad5b5d529d0c71333
 Done importing asset: 'Assets/Scenes/Level1.unity' (target hash: '51a2548b316be815116dd85654a82082') in 0.217997 seconds
   Import took 0.222911 seconds.
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.1 MB.
+System memory in use after: 42.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2443.
+Total: 2.982896 ms (FindLiveObjects: 0.393072 ms CreateObjectMapping: 0.142308 ms MarkObjects: 2.143659 ms  DeleteObjects: 0.302623 ms)
+
