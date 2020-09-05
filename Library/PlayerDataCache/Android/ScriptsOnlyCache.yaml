@@ -15,6 +15,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -34,10 +35,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -46,13 +45,29 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
-    com.unity.quicksearch.dll:
-    - Unity.QuickSearch.SearchDatabase
   sceneClasses:
+    Assets/Scenes/Dead1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
     Assets/Scenes/Level1.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -85,45 +100,47 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11176}
+      Script: {instanceID: 11200}
     - Class: 114
-      Script: {instanceID: 11510}
+      Script: {instanceID: 11534}
     - Class: 114
-      Script: {instanceID: 11584}
+      Script: {instanceID: 11608}
     - Class: 114
-      Script: {instanceID: 12340}
+      Script: {instanceID: 11934}
     - Class: 114
-      Script: {instanceID: 12404}
+      Script: {instanceID: 12366}
     - Class: 114
-      Script: {instanceID: 12432}
+      Script: {instanceID: 12430}
     - Class: 114
-      Script: {instanceID: 12730}
+      Script: {instanceID: 12458}
     - Class: 114
-      Script: {instanceID: 12998}
+      Script: {instanceID: 12756}
     - Class: 114
-      Script: {instanceID: 13598}
+      Script: {instanceID: 13024}
     - Class: 114
-      Script: {instanceID: 13618}
+      Script: {instanceID: 13212}
     - Class: 114
-      Script: {instanceID: 13642}
+      Script: {instanceID: 13624}
     - Class: 114
-      Script: {instanceID: 13708}
+      Script: {instanceID: 13644}
     - Class: 114
-      Script: {instanceID: 13984}
+      Script: {instanceID: 13668}
     - Class: 114
-      Script: {instanceID: 14038}
+      Script: {instanceID: 13734}
     - Class: 114
-      Script: {instanceID: 14094}
+      Script: {instanceID: 14010}
     - Class: 114
-      Script: {instanceID: 14428}
+      Script: {instanceID: 14064}
     - Class: 114
-      Script: {instanceID: 14744}
+      Script: {instanceID: 14120}
     - Class: 114
-      Script: {instanceID: 14810}
+      Script: {instanceID: 14290}
     - Class: 114
-      Script: {instanceID: 20760}
+      Script: {instanceID: 14456}
     - Class: 114
-      Script: {instanceID: 20764}
+      Script: {instanceID: 14772}
+    - Class: 114
+      Script: {instanceID: 14838}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -141,6 +158,23 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Win1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -365,6 +399,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 83e9a1bacd9a14c00e9241750629dffc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CoinController
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
@@ -889,6 +929,12 @@ ScriptsOnlyBuild:
     className: CinemachineInputProvider
   - hash:
       serializedVersion: 2
+      Hash: ee98729079998eb63435f99f41b30b9e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CoinManager
+  - hash:
+      serializedVersion: 2
       Hash: ffd3ed4fcd23b3e7745287c99a637247
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -1061,19 +1107,9 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: ee98729079998eb63435f99f41b30b9e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CoinManager
-  - hash:
-      serializedVersion: 2
-      Hash: 83e9a1bacd9a14c00e9241750629dffc
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CoinController
   platform: 13
   scenePathNames:
   - Assets/Scenes/Level1.unity
-  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Biulds/0.6/ELECTRIFIED.apk
+  - Assets/Scenes/Dead1.unity
+  - Assets/Scenes/Win1.unity
+  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Biulds/0.9/ELECTRIFIED.apk
