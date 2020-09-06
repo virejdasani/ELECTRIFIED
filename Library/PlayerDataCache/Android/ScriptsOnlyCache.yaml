@@ -545,15 +545,49 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11200}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 12366}
+    - Class: 114
+      Script: {instanceID: 13212}
+    - Class: 114
+      Script: {instanceID: 13624}
+    - Class: 114
+      Script: {instanceID: 14010}
+    - Class: 114
+      Script: {instanceID: 14120}
+    - Class: 114
+      Script: {instanceID: 14838}
+    - Class: 114
+      Script: {instanceID: 92430}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/LevelSelect.unity:
     - Class: 1
@@ -1729,4 +1763,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level3/Level3.unity
   - Assets/Scenes/Level4/Level4.unity
   - Assets/Scenes/About.unity
-  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Builds/2.0/ELECTRIFIED.apk
+  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Builds/2.0.1/ELECTRIFIED.apk

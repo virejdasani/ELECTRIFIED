@@ -995,3 +995,64 @@ System memory in use after: 42.7 MB.
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2401.
 Total: 3.650246 ms (FindLiveObjects: 0.459359 ms CreateObjectMapping: 0.158925 ms MarkObjects: 2.667408 ms  DeleteObjects: 0.363322 ms)
 
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.001618 seconds.
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.348 seconds
+Registering precompiled user dll's ...
+Registered in 0.083095 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.394 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.1 MB.
+System memory in use after: 42.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 6.228667 ms (FindLiveObjects: 0.914042 ms CreateObjectMapping: 0.306009 ms MarkObjects: 4.682238 ms  DeleteObjects: 0.323922 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 3.939142 ms (FindLiveObjects: 0.541237 ms CreateObjectMapping: 0.177458 ms MarkObjects: 2.821859 ms  DeleteObjects: 0.397245 ms)
+
