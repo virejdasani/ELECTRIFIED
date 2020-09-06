@@ -15,17 +15,23 @@ EditorBuildSettings:
     path: Assets/Scenes/PauseMenu.unity
     guid: 602a19948ef17fd0aa82e00974d84766
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Level1/Level1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Dead1.unity
+    path: Assets/Scenes/Level1/Dead1.unity
     guid: 161430940e9c1cf5a8bb1744f9cfe413
   - enabled: 1
-    path: Assets/Scenes/Win1.unity
+    path: Assets/Scenes/Level1/Win1.unity
     guid: 77ba9287e636fd97eb470927f77d94de
   - enabled: 1
-    path: Assets/Scenes/Level2.unity
+    path: Assets/Scenes/Level2/Level2.unity
     guid: 6ddba26ce82f382049014e9ddef26df6
+  - enabled: 1
+    path: Assets/Scenes/Level2/Dead2.unity
+    guid: 43ddd16b4aeae3cfbbf98aba7a760fb6
+  - enabled: 1
+    path: Assets/Scenes/Level2/Win2.unity
+    guid: 8f44a26ea9827a853a4065d8ba8caf1f
   - enabled: 1
     path: Assets/Scenes/About.unity
     guid: c498f02987f74798b8931a9be5e375ba
