@@ -1056,3 +1056,58 @@ System memory in use after: 42.5 MB.
 Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
 Total: 3.939142 ms (FindLiveObjects: 0.541237 ms CreateObjectMapping: 0.177458 ms MarkObjects: 2.821859 ms  DeleteObjects: 0.397245 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 508.043997 seconds.
+  path: Assets/Scenes/Level1/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level1/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/843182fc29dfc532093794a2920a7411.asset.1.index for Assets/Scenes/Level1/Level1.unity with Types
+Done importing asset: 'Assets/Scenes/Level1/Level1.unity' (target hash: 'd14424b306426133da228d9661ca5033') in 0.203047 seconds
+  Import took 0.229320 seconds.
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 4.125319 ms (FindLiveObjects: 0.540186 ms CreateObjectMapping: 0.181908 ms MarkObjects: 3.113176 ms  DeleteObjects: 0.289004 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.967018 seconds.
+  path: Assets/Scenes/Level1/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level1/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/d4efafb55cf43b57f9f37ebb0a86dec0.asset.1.index for Assets/Scenes/Level1/Level1.unity with Types
+Done importing asset: 'Assets/Scenes/Level1/Level1.unity' (target hash: 'd241d88c4f0d33f4ee5555ba194ec1f5') in 0.069703 seconds
+  Import took 0.084525 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.755549 seconds.
+  path: Assets/Scenes/Level1/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level1/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/86540054489641076aa2859229b09296.asset.1.index for Assets/Scenes/Level1/Level1.unity with Types
+Done importing asset: 'Assets/Scenes/Level1/Level1.unity' (target hash: '823d83cd8a82829e31fb85197f6e6d36') in 0.062306 seconds
+  Import took 0.069815 seconds.
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 12.224093 ms (FindLiveObjects: 0.581260 ms CreateObjectMapping: 0.192397 ms MarkObjects: 10.935667 ms  DeleteObjects: 0.513582 ms)
+
