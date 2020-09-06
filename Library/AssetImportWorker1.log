@@ -1111,3 +1111,25 @@ System memory in use after: 42.5 MB.
 Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
 Total: 12.224093 ms (FindLiveObjects: 0.581260 ms CreateObjectMapping: 0.192397 ms MarkObjects: 10.935667 ms  DeleteObjects: 0.513582 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 846.769139 seconds.
+  path: Assets/Sprites/logo.png
+  artifactKey: Guid(f44b386df54e8bd9580a28c00ed4d79f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Sprites/logo.png using Guid(f44b386df54e8bd9580a28c00ed4d79f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/bd52b733fafcfdfbaa1be13f71b78693.asset.1.index for Assets/Sprites/logo.png with Types
+Done importing asset: 'Assets/Sprites/logo.png' (target hash: 'e1e100fba1786d0d49f868648415d1a3') in 0.079666 seconds
+  Import took 0.095968 seconds.
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 5.158406 ms (FindLiveObjects: 0.416953 ms CreateObjectMapping: 0.144773 ms MarkObjects: 4.125566 ms  DeleteObjects: 0.469441 ms)
+

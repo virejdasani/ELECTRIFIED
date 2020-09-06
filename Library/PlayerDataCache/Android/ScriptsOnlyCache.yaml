@@ -26,7 +26,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -1763,4 +1762,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level3/Level3.unity
   - Assets/Scenes/Level4/Level4.unity
   - Assets/Scenes/About.unity
-  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Builds/3.0/ELECTRIFIED.apk
+  playerPath: /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Builds/3.1/ELECTRIFIED.apk
