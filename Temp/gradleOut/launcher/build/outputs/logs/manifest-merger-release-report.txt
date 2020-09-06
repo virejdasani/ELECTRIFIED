@@ -93,7 +93,7 @@ ADDED from [:unityLibrary] /home/virej/Desktop/Code/All-My-Projects/All-My-Games
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from [:unityLibrary] /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-47:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-51
+		ADDED from [:unityLibrary] /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-55
 	android:launchMode
 		ADDED from [:unityLibrary] /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-44
 	android:hardwareAccelerated

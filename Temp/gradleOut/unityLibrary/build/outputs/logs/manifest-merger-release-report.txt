@@ -28,13 +28,13 @@ ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Pro
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:111-149
+		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:111-153
 	android:launchMode
-		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:150-181
+		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:154-185
 	android:hardwareAccelerated
-		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:364-399
+		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:368-403
 	android:configChanges
-		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:182-363
+		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:186-367
 	android:theme
 		ADDED from /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:69-110
 	android:name

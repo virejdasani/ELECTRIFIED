@@ -19,7 +19,7 @@ public class DistanceCalculator : MonoBehaviour {
     {
 
         // Calculate distance value between character and checkpoint
-        distance = (checkpoint.transform.position - transform.position).magnitude - 27.3f + 8.3f;
+        distance = (checkpoint.transform.position - transform.position).magnitude - 27.3f + 8.3f + 2.9f;
 
         // Display distance value via UI text
         // distance.ToString("F1") shows value with 1 digit after period
