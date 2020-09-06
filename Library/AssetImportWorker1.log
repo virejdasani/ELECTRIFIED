@@ -1144,3 +1144,209 @@ System memory in use after: 42.5 MB.
 Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2407.
 Total: 2.788145 ms (FindLiveObjects: 0.368239 ms CreateObjectMapping: 0.146280 ms MarkObjects: 1.994854 ms  DeleteObjects: 0.277882 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 2608.230587 seconds.
+  path: Assets/Scenes/Level1/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level1/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/61287738d265ca7be8f2f4e1032e54e9.asset.1.index for Assets/Scenes/Level1/Level1.unity with Types
+Done importing asset: 'Assets/Scenes/Level1/Level1.unity' (target hash: 'eaed863467a3b14364b4a1412ce45d60') in 0.012125 seconds
+  Import took 0.023840 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.871917 seconds.
+  path: Assets/Scenes/Level1/Level1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level1/Level1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/198a51eec4c078634b9f79a18c96b5ea.asset.1.index for Assets/Scenes/Level1/Level1.unity with Types
+Done importing asset: 'Assets/Scenes/Level1/Level1.unity' (target hash: '51d1888c963c7565ff7b3bf1bb2ee95e') in 0.069157 seconds
+  Import took 0.085438 seconds.
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.001602 seconds.
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Registering precompiled user dll's ...
+Registered in 0.054275 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.1 MB.
+System memory in use after: 42.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2413.
+Total: 6.544113 ms (FindLiveObjects: 0.894051 ms CreateObjectMapping: 0.355254 ms MarkObjects: 4.574543 ms  DeleteObjects: 0.717515 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.001663 seconds.
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.288 seconds
+Registering precompiled user dll's ...
+Registered in 0.057691 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.336 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.2 MB.
+System memory in use after: 42.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2419.
+Total: 3.500280 ms (FindLiveObjects: 0.401714 ms CreateObjectMapping: 0.143578 ms MarkObjects: 2.594652 ms  DeleteObjects: 0.359400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.891552 seconds.
+  path: Assets/Scenes/Level2/Level2.unity
+  artifactKey: Guid(6ddba26ce82f382049014e9ddef26df6) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level2/Level2.unity using Guid(6ddba26ce82f382049014e9ddef26df6) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/04908b69de1342169b7e6ebebf581951.asset.1.index for Assets/Scenes/Level2/Level2.unity with Types
+Done importing asset: 'Assets/Scenes/Level2/Level2.unity' (target hash: 'd27a6e68320c6912e11958d3d89a0d43') in 0.113919 seconds
+  Import took 0.118552 seconds.
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.001440 seconds.
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.417 seconds
+Registering precompiled user dll's ...
+Registered in 0.060116 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/virej/Desktop/Code/All-My-Projects/All-My-Games/Unity/Unity Projects/ELECTRIFIED/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Failed to load: /home/virej/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.462 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.2 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 3.284738 ms (FindLiveObjects: 0.443667 ms CreateObjectMapping: 0.156988 ms MarkObjects: 2.357836 ms  DeleteObjects: 0.325433 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 3.018987 ms (FindLiveObjects: 0.479576 ms CreateObjectMapping: 0.160753 ms MarkObjects: 2.076910 ms  DeleteObjects: 0.300265 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.9 MB.
+System memory in use after: 42.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 3.518948 ms (FindLiveObjects: 0.496106 ms CreateObjectMapping: 0.132753 ms MarkObjects: 2.512005 ms  DeleteObjects: 0.376851 ms)
+

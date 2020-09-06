@@ -225,13 +225,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 133371947}
-  m_LocalRotation: {x: -0, y: -0, z: -0.7056955, w: 0.70851517}
-  m_LocalPosition: {x: 35.05, y: 3.1, z: -0.64991}
-  m_LocalScale: {x: 0.5931486, y: 0.5931486, z: 0.5931486}
+  m_LocalRotation: {x: -0, y: -0, z: -0.70569557, w: 0.7085152}
+  m_LocalPosition: {x: 12.809605, y: 1.6661927, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 289512197}
-  m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_Father: {fileID: 454299582}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.772}
 --- !u!1001 &289512196
 PrefabInstance:
@@ -660,6 +660,8 @@ Transform:
   m_LocalScale: {x: 0.5931486, y: 0.5931486, z: 0.5931486}
   m_Children:
   - {fileID: 677403670}
+  - {fileID: 647486513}
+  - {fileID: 133371948}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1155,13 +1157,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 647486512}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.36, y: 2.1117, z: -0.64991}
-  m_LocalScale: {x: 0.5931486, y: 0.5931486, z: 0.5931486}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.2744875, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1714393586}
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_Father: {fileID: 454299582}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &677403670 stripped
 Transform:
@@ -2029,7 +2031,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Green = Good
+  m_text: Green = Safe
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3045,7 +3047,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Red = Bad
+  m_text: Red = ELECTRIFIED
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3114,7 +3116,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -45.580315, w: -55.70932}
   m_textInfo:
     textComponent: {fileID: 1815873876}
-    characterCount: 9
+    characterCount: 17
     spriteCount: 0
     spaceCount: 2
     wordCount: 2
