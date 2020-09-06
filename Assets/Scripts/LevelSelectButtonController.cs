@@ -18,6 +18,10 @@ public class LevelSelectButtonController : MonoBehaviour
     {
         SceneManager.LoadScene("Level3");
     }
+    public void level4()
+    {
+        SceneManager.LoadScene("Level4");
+    }
     public void back()
     {
         SceneManager.LoadScene("MainMenu");
